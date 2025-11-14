@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="eulogy.png" alt="Eulogy Logo" width="480">
+    <img src="Eulogy.png" alt="Eulogy Logo" width="480">
 </p>
 
 # Eulogy
